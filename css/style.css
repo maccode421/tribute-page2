@@ -1,0 +1,20 @@
+/*body {*/
+
+/*  background-image: url("http://iveneverdonethat.com/indt2012/files/50BotanyPic.jpg");*/
+
+/*}*/
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.mr-3 {
+    height: 15vh;
+    width: 12vw;
+}
+
+.col-6 {
+    border: double;
+}
+    
