@@ -1,0 +1,54 @@
+commit e7b7df5bf0522b8c21ab224c630a6409b688b6f4
+Merge: 6814bb0 5a66a6e
+Author: Macc <maccavalli@gmail.com>
+Date:   Tue Oct 31 17:48:43 2017 +0000
+
+    Merge branch 'myNotesBranch'
+
+commit 5a66a6eb35c903a8a1cb0b85bd6d5e21bffb696c
+Author: Macc <maccavalli@gmail.com>
+Date:   Tue Oct 31 17:42:49 2017 +0000
+
+    create notes.txt
+
+commit 6814bb0aeb7f639a1998d900a025fcb70f8f229f
+Author: Macc <maccavalli@gmail.com>
+Date:   Tue Oct 31 17:34:01 2017 +0000
+
+    minor modification
+
+commit 2569500d5e7903c36da9f62dd8e9a9816f81ae87
+Author: Macc <maccavalli@gmail.com>
+Date:   Tue Oct 31 16:01:22 2017 +0000
+
+    Add display flex, align center
+
+commit 2e47c2b719cc70c8b478dbfc55d533e6bb85a4e1
+Author: Macc <maccavalli@gmail.com>
+Date:   Tue Oct 31 00:41:46 2017 +0000
+
+    Clean up html and add flex css
+
+commit 5589212a88a5ba3418a5e2c6c6eaa1244508baab
+Author: Macc <maccavalli@gmail.com>
+Date:   Mon Oct 30 23:17:27 2017 +0000
+
+    Add links to grid elements
+
+commit 2f01a09e508121020cab6180bf04407fe1e0c749
+Author: Macc <maccavalli@gmail.com>
+Date:   Mon Oct 30 22:42:38 2017 +0000
+
+    Add grid and style border and header image
+
+commit d1a07ac8742db52858b92ceae277bc077b188635
+Author: Macc <maccavalli@gmail.com>
+Date:   Mon Oct 30 21:15:16 2017 +0000
+
+    Creat css folder and script file
+
+commit a41c8d79458f1d669bd91b7f59b0d97834a55413
+Author: Macc <maccavalli@gmail.com>
+Date:   Mon Oct 30 14:15:31 2017 +0000
+
+    First commit
